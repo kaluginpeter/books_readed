@@ -1,4 +1,5 @@
 - "Think Python. How To Think Like a Computer Scientist" by Allen Downey
 
-#### Review: 
-Intresting book for fast introduction to a core  language. Found it helpful in some cases for me. Highly recommended for begginers.
+- "Atomic Habits. Tiny changes remarkable results" by James Clear
+
+- "Can't hurt me. Master your brain and define the odds" by David Goggins
