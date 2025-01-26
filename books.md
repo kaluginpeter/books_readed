@@ -5,3 +5,5 @@
 - "Can't hurt me. Master your brain and define the odds" by David Goggins
 
 - "The Long Walk" by Stephen King
+
+- "Will" by Will Smith
