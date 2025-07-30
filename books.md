@@ -7,3 +7,7 @@
 - "The Long Walk" by Stephen King
 
 - "Will" by Will Smith
+
+- "Rich Data Poor Dad" by Robert Kiyosaki
+
+- "The richest man in Babylon" by George Clason
